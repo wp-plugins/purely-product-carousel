@@ -2,9 +2,10 @@
 Contributors: purelythemes
 Donate link: http://purelythemes.com/
 Tags: woocommerce, product, carousel
-Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 4.3
+Requires at least: 3.2
+Tested up to: 4.2.2
+Version: 1.0.1
+Stable tag: 4.2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,8 +30,6 @@ Scroller icons are licensed under GPL and read here https://www.iconfinder.com/i
 
 = 1.0 =
 * First version open for public.
+= 1.0.1 =
+* Updated readme.txt
 
-== Upgrade Notice ==
-
-= 1.0 =
-* First version open for public.
