@@ -32,4 +32,5 @@ Scroller icons are licensed under GPL and read here https://www.iconfinder.com/i
 * First version open for public.
 = 1.0.1 =
 * Updated readme.txt
+* Updated WP_Widget:: to parent::__construct
 

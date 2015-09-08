@@ -7,7 +7,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 Plugin Name: Product Carousel
 Plugin URI: http://purelythemes.com/product-carousel
 Description: WooCommerce Product Carousel with options 
-Version: 1.0
+Version: 1.0.1
 Author: PurelyThemes
 Author URI: http://www.purelythemes.com
 License: GNU GPLv2
@@ -17,7 +17,7 @@ class purely_product_carousel extends WP_Widget {
 
 	// constructor
 	function purely_product_carousel() {
-		parent::WP_Widget(false, $name = __('Product Carousel', 'purely_product_carousel') );
+		parent::__construct(false, $name = __('Product Carousel', 'purely_product_carousel') );
 	}
 
 
