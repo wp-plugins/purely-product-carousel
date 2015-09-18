@@ -11,6 +11,9 @@
 	display:block;
 	position:relative;
 }
+.purely-carousel-item {
+	padding:10px;
+}
 .purely_product_carousel_textarea {
 	text-align:center;
 }
@@ -18,7 +21,7 @@
 	background-repeat: no-repeat;
 	border: 0px;
 	box-shadow: 0;	
-	text-indent: 100px;
+	text-indent: 9999px;
 	height: 18px;
 	width: 18px;
 	background-color: transparent;
@@ -285,7 +288,7 @@
 /* Specifics for various columns sizes */
 
 .carousel-3-columns .purely-carousel-description, .carousel-3-columns .purely-carousel-item {
-	width:300px;
+
 	margin-left:auto;
 	margin-right:auto;
 	text-align:center;
